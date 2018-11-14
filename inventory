@@ -1,0 +1,8 @@
+[prometheus]
+18.222.106.129
+
+[node_exporter]
+18.224.63.194
+
+[alertmanager]
+18.216.247.122
